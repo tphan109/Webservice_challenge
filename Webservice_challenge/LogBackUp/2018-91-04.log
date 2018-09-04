@@ -1,0 +1,10 @@
+2018-09-04 23:01:12,315 [9] INFO ErrorLog - appel au webservice: 
+2018-09-04 23:01:12,327 [9] INFO ErrorLog - http://localhost:50845/api/Fibonacci/10
+
+2018-09-04 23:01:12,328 [9] INFO ErrorLog - réponse de webservice: 
+2018-09-04 23:01:12,329 [9] INFO ErrorLog - 55
+2018-09-04 23:01:18,309 [11] INFO ErrorLog - appel au webservice: 
+2018-09-04 23:01:18,310 [11] INFO ErrorLog - http://localhost:50845/api/Fibonacci/10
+
+2018-09-04 23:01:18,311 [11] INFO ErrorLog - réponse de webservice: 
+2018-09-04 23:01:18,312 [11] INFO ErrorLog - 55
